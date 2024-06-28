@@ -1,2 +1,12 @@
-# -Contest-Development-of-a-Risk-Prediction-Model-After-Brace-Tooth-Extraction-Surgery
-바이오헬스 데이터 경진대회 - 바이오헬스 데이터 경진대회
+#  2023 바이오헬스 데이터 경진대회 - 치의학 분야
+## 사랑니 발치 수술 후 위험도 예측 모델 개발
+
+참여 인원: 5명
+
+참여 기간: 2023-10-27 ~ 2023-12-01
+
+폐쇄망: 리눅스 서버 / Python
+
+--
+
+
