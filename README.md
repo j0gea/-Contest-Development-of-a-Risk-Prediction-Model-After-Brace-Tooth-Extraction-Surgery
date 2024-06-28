@@ -7,6 +7,9 @@
 
 폐쇄망: 리눅스 서버 / Python
 
---
+---
+테스트 표
+
+https://docs.google.com/spreadsheets/d/1_JKAoEt_79JQ8mSN7xOig-UrPSSfimg3J54D7y98J2M/edit?usp=sharing
 
 
